@@ -43,13 +43,22 @@ In summary, this project aims to leverage machine learning, specifically Multi-N
 ### File Structure
 
 ├── data
+
 │ └── women's_clothing_reviews.csv
+
 ├── notebooks
+
 │ └── sentiment_analysis.ipynb
+
 ├── src
+
 │ ├── preprocess.py
+
 │ ├── train.py
+
 │ └── evaluate.py
+
 ├── README.md
+
 └── requirements.txt
 
