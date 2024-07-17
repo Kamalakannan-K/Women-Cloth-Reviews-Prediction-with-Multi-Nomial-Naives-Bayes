@@ -40,25 +40,17 @@ In summary, this project aims to leverage machine learning, specifically Multi-N
 
 
 
-### File Structure
+### How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone (https://github.com/Kamalakannan-K/Women-Cloth-Reviews-Prediction-with-Multi-Nomial-Naives-Bayes.git)
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
 
-├── data
+## Contact
+For any questions or suggestions, please contact Kamalakannan at kkamalakannanlearn@gmail.com.
 
-│ └── women's_clothing_reviews.csv
 
-├── notebooks
 
-│ └── sentiment_analysis.ipynb
-
-├── src
-
-│ ├── preprocess.py
-
-│ ├── train.py
-
-│ └── evaluate.py
-
-├── README.md
-
-└── requirements.txt
 
